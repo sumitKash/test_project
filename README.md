@@ -1,2 +1,3 @@
-# test_project
-testing project
+#!/bin/bash
+
+echo -e "Testing git project"
